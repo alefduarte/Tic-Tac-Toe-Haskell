@@ -29,6 +29,7 @@ Ao escolher Jogador Vs Máquina (modo médio), o jogo iniciará com o jogador 1,
 Ao escolher Jogador Vs Máquina (modo difícil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina verificará se e é a sua primeira posição, caso seja, verificará se o jogador colocou em qualquer posição nas pontas, caso seja verdadeiro, escreverá na posição central, o mesmo acontecerá caso o jogador coloque nas laterais. Caso o jogador tenha iniciado na posição central, escreverá em uma das pontas.
 Na próxima jogada da máquina, encontra-se toda a lógica principal que definirá se a máquina ganhará ou não. Toda a lógica foi desenvolvida a partir da explicação encontrada em: [Quora] (https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe).
 
+----
 ## Tic-Tac-Toe Haskell
 
 > English
