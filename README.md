@@ -72,7 +72,7 @@ In the next machine movement, the main logic if found which will define whether 
 ---
 ## License
 
-![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2019 © <a href="https://github.com/alefduarte" target="_blank">Alef Duarte</a> and <a href="https://github.com/marinabsz" target="_blank">Marina Batista</a>.
