@@ -1,5 +1,5 @@
 ## Tic-Tac-Toe Haskell
-
+> Tested in Glasgow Haskell Compiler (as ghci) in a Debian environment within Windows 10 64x
 > Portuguese
 
 ## Características
