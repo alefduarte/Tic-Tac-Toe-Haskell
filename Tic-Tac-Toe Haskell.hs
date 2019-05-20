@@ -575,10 +575,10 @@ jogoPrincipal arr jogada jogador = do
         5 -> putStrLn "Obrigado por jogar :D"
     
 main = do
-    -- |Vetor inicial
+    -- |vetor inicial
     let arr = [" "," "," "," "," "," "," "," "," "]
-    -- |Variáveis iniciais
+    -- |variáveis iniciais
     let jogada = 0
     let jogador = 1
-    -- |Jogo Principal
+    -- |jogo Principal
     jogoPrincipal arr jogada jogador
