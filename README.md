@@ -27,7 +27,7 @@ Ao escolher Jogador Vs Máquina (modo médio), o jogo iniciará com o jogador 1,
 ## Jogador Vs Máquina (modo difícil)
 
 Ao escolher Jogador Vs Máquina (modo difícil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina verificará se e é a sua primeira posição, caso seja, verificará se o jogador colocou em qualquer posição nas pontas, caso seja verdadeiro, escreverá na posição central, o mesmo acontecerá caso o jogador coloque nas laterais. Caso o jogador tenha iniciado na posição central, escreverá em uma das pontas.
-Na próxima jogada da máquina, encontra-se toda a lógica principal que definirá se a máquina ganhará ou não. Toda a lógica foi desenvolvida a partir da explicação encontrada em: [Quora] (https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe).
+Na próxima jogada da máquina, encontra-se toda a lógica principal que definirá se a máquina ganhará ou não. Toda a lógica foi desenvolvida a partir da explicação encontrada em: [Quora](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe).
 
 ----
 ## Tic-Tac-Toe Haskell
@@ -58,7 +58,7 @@ When choosing Player Vs Machine (Normal), the game will start with Player 1, who
 ## Player Vs Machine (Hard)
 
 When choosing Player Vs Machine (Normal), the game will start with Player 1, who will be prompted the desired position, afterwards the machine will be up to play. Before its move, the user will be prompted to enter "Enter" key before proceeding. Then, the machine will verify whether it is its first movement, if so, it will then check whether the player has chosen any edges, if so, will write in the center position. The same procedure will happen if the user has chosen any corner position. If the player has started in the center position, then the machine will write in any edge.
-In the next machine movement, the main logic if found which will define whether the machine will win or not. This logic was developed according to the following answer: [Quora] (https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
+In the next machine movement, the main logic if found which will define whether the machine will win or not. This logic was developed according to the following answer: [Quora](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
 
 ----
 ## changelog
