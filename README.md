@@ -36,7 +36,7 @@ Na próxima jogada da máquina, encontra-se toda a lógica principal que definir
 
 ## Characteristics
 
-There are three playing ways:
+There are three ways of playing:
 
 - Player Vs Player.
 - Player Vs Machine (Easy).
