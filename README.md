@@ -1,6 +1,7 @@
-## Tic-Tac-Toe Haskell
-> Tested in Glasgow Haskell Compiler (as ghci) in a Debian environment within Windows 10 64x
+# Tic-Tac-Toe Haskell
 
+<https://github.com/alefduarte/Tic-Tac-Toe-Haskell/>
+> Tested in Glasgow Haskell Compiler (as ghci) in a Debian environment within Windows 10 64x
 > **Portuguese**
 
 ## Características
@@ -14,22 +15,23 @@ Há três modos de jogar:
 
 ## Jogador Vs Jogador
 
-Ao escolher Jogador Vs Jogador, o jogo iniciará com o jogador 1, que será questionado a posição desejada, e, em seguida o jogador 2. O mesmo processo acontecerá continuamente até o fim.
+Ao escolher Jogador Vs Jogador, o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida o jogador 2, e continuamente até o fim.
 
 ## Jogador Vs Máquina (modo fácil)
 
-Ao escolher Jogador Vs Máquina (modo fácil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e, em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina escolherá a primeira posição possível, e o jogo voltará ao jogador 1 e assim sucessivamente até o final.
+Ao escolher Jogador Vs Máquina (modo fácil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina escolherá a primeira posição possível, e o jogo voltará ao jogador 1 e assim sucessivamente até o final.
 
 ## Jogador Vs Máquina (modo médio)
 
-Ao escolher Jogador Vs Máquina (modo médio), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e, em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina escolherá um número aleatório que esteja disponível e voltará ao jogador 1 e assim sucessivamente até o final.
+Ao escolher Jogador Vs Máquina (modo médio), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina escolherá um número aleatório que esteja disponível e voltará ao jogador 1 e assim sucessivamente até o final.
 
 ## Jogador Vs Máquina (modo difícil)
 
-Ao escolher Jogador Vs Máquina (modo difícil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e, em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina verificará se e é a sua primeira posição, caso seja, verificará se o jogador colocou em qualquer posição nas pontas, caso seja verdadeiro, escreverá na posição central, o mesmo acontecerá caso o jogador coloque nas laterais. Caso o jogador tenha iniciado na posição central, escreverá em uma das pontas.
+Ao escolher Jogador Vs Máquina (modo difícil), o jogo iniciará com o jogador 1, que será questionado a posição desejada, e em seguida, a máquina. Antes da jogada da máquina, o usuário será solicitado apertar a tecla "Enter" antes da jogada, em seguida, a máquina verificará se e é a sua primeira posição, caso seja, verificará se o jogador colocou em qualquer posição nas pontas, caso seja verdadeiro, escreverá na posição central, o mesmo acontecerá caso o jogador coloque nas laterais. Caso o jogador tenha iniciado na posição central, escreverá em uma das pontas.
 Na próxima jogada da máquina, encontra-se toda a lógica principal que definirá se a máquina ganhará ou não. Toda a lógica foi desenvolvida a partir da explicação encontrada em: [Quora](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe).
 
 ----
+
 ## Tic-Tac-Toe Haskell
 
 > **English**
@@ -61,18 +63,23 @@ When choosing Player Vs Machine (Normal), the game will start with Player 1, who
 In the next machine movement, the main logic if found which will define whether the machine will win or not. This logic was developed according to the following answer: [Quora](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
 
 ----
+
 ## Changelog
-* 20-May-2019 Initial Files
+
+- 20-May-2019 Initial Files
 
 ----
-## Thanks
-* [Philip JF](https://stackoverflow.com/questions/5852722/replace-individual-list-elements-in-haskell)
-* [Arjun Mani](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
 
----
+## Thanks
+
+- [Philip JF](https://stackoverflow.com/questions/5852722/replace-individual-list-elements-in-haskell)
+- [Arjun Mani](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe)
+
+----
+
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2019 © <a href="https://github.com/alefduarte" target="_blank">Alef Duarte</a> and <a href="https://github.com/marinabsz" target="_blank">Marina Batista</a>.
